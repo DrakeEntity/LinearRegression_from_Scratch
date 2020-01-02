@@ -6,7 +6,6 @@ X, y= make_regression(n_samples=100, n_features=1, noise=0.4, bias=50)
 
 
 
-
 def plotLine(theta0, theta1, X, y):
     max_x = np.max(X) + 100
     min_x = np.min(X) - 100
