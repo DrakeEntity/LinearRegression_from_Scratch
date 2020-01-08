@@ -9,7 +9,7 @@ An implementation of Linear Regression from scratch in python 📈. Includes the
 
 1. Download the project on your computer.
 `
-git clone https://github.com/sarvasvkulpati/LinearRegression
+git clone https://github.com/codePerfectPlus/LinearRegression_from_Scratch
 `
 or download the ZIP file
 
