@@ -100,7 +100,8 @@ Now we repeat these steps - checking the error, calculating the derivatives, and
 Once your error is minimised, your line should now be the best possible fit to approximate the data!
 
 
-
+------------
+----
 ### Other Reference Github Repository
 
 #### [Code_perfect](https://codeperfectplus.github.io/codes_perfect/)
